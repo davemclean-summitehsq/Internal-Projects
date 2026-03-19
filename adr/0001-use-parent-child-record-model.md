@@ -1,7 +1,7 @@
 ---
 id: 0001
 title: Use Parent-Child Record Model for Lone Worker Tracking
-status: accepted
+status: proposed
 date: 2026-03-18
 decision-makers:
   - Dave McLean
